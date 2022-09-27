@@ -1,0 +1,48 @@
+@keyframes box1
+
+
+
+{
+    100% {
+        right: 200PX;
+        background-color: red;
+        width: 200PX;
+
+
+
+    }
+
+    100% {
+         right:500px;
+        background-color: aquamarine;
+        width: 400px;
+    }
+    50%{
+        right: 200px;
+        background-color: blueviolet;
+        width: 200px;
+    }
+}
+@keyframes box-nover2 {
+    100% {
+        left: 200px;
+        background-color: red;
+        width: 200PX;
+
+
+
+    }
+
+
+    100% {
+        left: 500px;
+        background-color: aquamarine;
+        width: 400px;
+    }
+
+    50% {
+        left: 200px;
+        background-color: blueviolet;
+        width: 200px;
+    }
+}
